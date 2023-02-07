@@ -10,5 +10,20 @@
     "test": "node test/test.js"
   },
   "author": "Rodrigo Campos <campos6@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RodrigoCamposD/have-matching.git"
+  },
+  "keywords": [
+    "compare",
+    "string",
+    "values",
+    "numbers",
+    "word"
+  ],
+  "bugs": {
+    "url": "https://github.com/RodrigoCamposD/have-matching/issues"
+  },
+  "homepage": "https://github.com/RodrigoCamposD/have-matching#readme"
 }
