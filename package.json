@@ -1,0 +1,14 @@
+{
+  "name": "have-matching",
+  "version": "1.0.0",
+  "description": "Compare two values with various paramaters.",
+  "main": "haveMatching.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "author": "Rodrigo Campos <campos6@gmail.com>",
+  "license": "MIT"
+}
