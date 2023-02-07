@@ -1,6 +1,6 @@
 {
   "name": "have-matching",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Compare two values with various paramaters.",
   "main": "haveMatching.js",
   "directories": {
@@ -10,7 +10,7 @@
     "test": "node test/test.js"
   },
   "author": "Rodrigo Campos <campos6@gmail.com>",
-  "license": "MIT",
+  "license": "Unlicense",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/RodrigoCamposD/have-matching.git"
@@ -20,7 +20,7 @@
     "string",
     "values",
     "numbers",
-    "word"
+    "words"
   ],
   "bugs": {
     "url": "https://github.com/RodrigoCamposD/have-matching/issues"

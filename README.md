@@ -37,7 +37,7 @@ haveMatching("test", ["tSet", "st"])); // true
 haveMatching(8, ["88", "test"])); // false
 haveMatching("test", "Test", { orderMatter: true })); // true
 
-haveMatching("test8", "testa8", {
+haveMatching("test8", "test8", {
     orderMatter: true,
     onlyNumbers: true,
     caseSensitive: true,

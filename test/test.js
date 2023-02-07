@@ -1,4 +1,4 @@
-const haveMatching = require("have-matching");
+const haveMatching = require("../haveMatching");
 
 console.log("01", haveMatching("test", "tSet5")); // false
 console.log("02", haveMatching("t5est", "tSet5")); // true
