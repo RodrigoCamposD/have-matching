@@ -1,4 +1,4 @@
-# install
+## Install
 
 ```bash
 npm install have-matching
@@ -7,7 +7,7 @@ npm install have-matching
 ## Use
 
 ```javascript
-const haveMatching = require("../haveMatching");
+const haveMatching = require("have-matching");
 haveMatching("t5est", "tSet5")); // true
 ```
 
