@@ -1,6 +1,6 @@
 {
   "name": "have-matching",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Compare two values with various paramaters.",
   "main": "haveMatching.js",
   "directories": {
@@ -24,6 +24,9 @@
   ],
   "bugs": {
     "url": "https://github.com/RodrigoCamposD/have-matching/issues"
+  },
+  "engines": {
+    "node": ">=6.17.1"
   },
   "homepage": "https://github.com/RodrigoCamposD/have-matching#readme"
 }

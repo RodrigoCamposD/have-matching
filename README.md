@@ -1,10 +1,18 @@
+# have-matching
+
+Compare two values with some options.
+
+[![NPM][nodeio-img]][npm-url]
+
+[![Node Version][node-img]][npm-url] [![NPM Version][verion-img]][npm-url] [![NPM Downloads][download-img]][npm-url]
+
 ## Install
 
 ```bash
 npm install have-matching
 ```
 
-## Use
+## Usage
 
 ```javascript
 const haveMatching = require("have-matching");
@@ -45,3 +53,17 @@ haveMatching("test8", "test8", {
   })
 ); // true
 ```
+
+[npm-url]: https://npmjs.org/package/have-matching
+[license-url]: https://github.com/RodrigoCamposD/have-matching/blob/main/LICENSE.md
+[vulnerabilities-url]: https://snyk.io/advisor/npm-package/have-matching
+[libraries-url]: https://libraries.io/npm/have-matching
+[nodeio-img]: https://nodei.co/npm/have-matching.png?downloads=true&downloadRank=true&stars=true
+[node-img]: https://img.shields.io/node/v/have-matching?style=for-the-badge
+[libraries-img]: https://img.shields.io/librariesio/release/npm/have-matching?style=for-the-badge
+[quality-img]: https://img.shields.io/npms-io/quality-score/have-matching?style=for-the-badge
+[verion-img]: https://img.shields.io/npm/v/have-matching?style=for-the-badge
+[download-img]: https://img.shields.io/npm/dt/have-matching?style=for-the-badge
+[node-version-img]: https://img.shields.io/node/v/have-matching?style=for-the-badge
+[license-img]: https://img.shields.io/npm/l/have-matching?style=for-the-badge
+[vulnerabilities-img]: https://img.shields.io/snyk/vulnerabilities/npm/have-matching?style=for-the-badge
